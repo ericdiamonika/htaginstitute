@@ -1,0 +1,947 @@
+----------06-27-2018 @ 12:06:18----------
+Array
+(
+    [0] => Array
+        (
+            [file] => /homepages/31/d743963689/htdocs/clickandbuilds/htaginstitute/wp-content/plugins/learnpress/inc/class-lp-install.php
+            [line] => 155
+            [function] => update_db_version
+            [class] => LP_Install
+            [type] => ::
+            [args] => Array
+                (
+                )
+
+        )
+
+    [1] => Array
+        (
+            [file] => /homepages/31/d743963689/htdocs/clickandbuilds/htaginstitute/wp-includes/class-wp-hook.php
+            [line] => 286
+            [function] => install
+            [class] => LP_Install
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => 
+                )
+
+        )
+
+    [2] => Array
+        (
+            [file] => /homepages/31/d743963689/htdocs/clickandbuilds/htaginstitute/wp-includes/class-wp-hook.php
+            [line] => 310
+            [function] => apply_filters
+            [class] => WP_Hook
+            [object] => WP_Hook Object
+                (
+                    [callbacks] => Array
+                        (
+                            [10] => Array
+                                (
+                                    [000000007cbf6bb5000000001eefa0f5on_activate] => Array
+                                        (
+                                            [function] => Array
+                                                (
+                                                    [0] => LearnPress Object
+                                                        (
+                                                            [version] => 3.0.9
+                                                            [session] => 
+                                                            [profile] => 
+                                                            [cart] => 
+                                                            [settings] => 
+                                                            [schedule] => 
+                                                            [query_vars] => Array
+                                                                (
+                                                                )
+
+                                                            [_table_prefixes:protected] => Array
+                                                                (
+                                                                    [tbl_sessions] => KzxHEIFclearnpress_sessions
+                                                                    [tbl_sections] => KzxHEIFclearnpress_sections
+                                                                    [tbl_section_items] => KzxHEIFclearnpress_section_items
+                                                                    [tbl_user_items] => KzxHEIFclearnpress_user_items
+                                                                    [tbl_user_itemmeta] => KzxHEIFclearnpress_user_itemmeta
+                                                                    [tbl_order_items] => KzxHEIFclearnpress_order_items
+                                                                    [tbl_order_itemmeta] => KzxHEIFclearnpress_order_itemmeta
+                                                                    [tbl_quiz_questions] => KzxHEIFclearnpress_quiz_questions
+                                                                    [tbl_question_answers] => KzxHEIFclearnpress_question_answers
+                                                                    [tbl_question_answermeta] => KzxHEIFclearnpress_question_answermeta
+                                                                    [tbl_review_logs] => KzxHEIFclearnpress_review_logs
+                                                                )
+
+                                                            [query] => LP_Query Object
+                                                                (
+                                                                    [query_vars] => Array
+                                                                        (
+                                                                        )
+
+                                                                )
+
+                                                            [global] => Array
+                                                                (
+                                                                )
+
+                                                            [backgrounds] => Array
+                                                                (
+                                                                )
+
+                                                        )
+
+                                                    [1] => on_activate
+                                                )
+
+                                            [accepted_args] => 1
+                                        )
+
+                                    [LP_Install::install] => Array
+                                        (
+                                            [function] => Array
+                                                (
+                                                    [0] => LP_Install
+                                                    [1] => install
+                                                )
+
+                                            [accepted_args] => 1
+                                        )
+
+                                )
+
+                        )
+
+                    [iterations:WP_Hook:private] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => 10
+                                )
+
+                        )
+
+                    [current_priority:WP_Hook:private] => Array
+                        (
+                            [0] => 10
+                        )
+
+                    [nesting_level:WP_Hook:private] => 1
+                    [doing_action:WP_Hook:private] => 1
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                    [0] => 
+                    [1] => Array
+                        (
+                            [0] => 
+                        )
+
+                )
+
+        )
+
+    [3] => Array
+        (
+            [file] => /homepages/31/d743963689/htdocs/clickandbuilds/htaginstitute/wp-includes/plugin.php
+            [line] => 453
+            [function] => do_action
+            [class] => WP_Hook
+            [object] => WP_Hook Object
+                (
+                    [callbacks] => Array
+                        (
+                            [10] => Array
+                                (
+                                    [000000007cbf6bb5000000001eefa0f5on_activate] => Array
+                                        (
+                                            [function] => Array
+                                                (
+                                                    [0] => LearnPress Object
+                                                        (
+                                                            [version] => 3.0.9
+                                                            [session] => 
+                                                            [profile] => 
+                                                            [cart] => 
+                                                            [settings] => 
+                                                            [schedule] => 
+                                                            [query_vars] => Array
+                                                                (
+                                                                )
+
+                                                            [_table_prefixes:protected] => Array
+                                                                (
+                                                                    [tbl_sessions] => KzxHEIFclearnpress_sessions
+                                                                    [tbl_sections] => KzxHEIFclearnpress_sections
+                                                                    [tbl_section_items] => KzxHEIFclearnpress_section_items
+                                                                    [tbl_user_items] => KzxHEIFclearnpress_user_items
+                                                                    [tbl_user_itemmeta] => KzxHEIFclearnpress_user_itemmeta
+                                                                    [tbl_order_items] => KzxHEIFclearnpress_order_items
+                                                                    [tbl_order_itemmeta] => KzxHEIFclearnpress_order_itemmeta
+                                                                    [tbl_quiz_questions] => KzxHEIFclearnpress_quiz_questions
+                                                                    [tbl_question_answers] => KzxHEIFclearnpress_question_answers
+                                                                    [tbl_question_answermeta] => KzxHEIFclearnpress_question_answermeta
+                                                                    [tbl_review_logs] => KzxHEIFclearnpress_review_logs
+                                                                )
+
+                                                            [query] => LP_Query Object
+                                                                (
+                                                                    [query_vars] => Array
+                                                                        (
+                                                                        )
+
+                                                                )
+
+                                                            [global] => Array
+                                                                (
+                                                                )
+
+                                                            [backgrounds] => Array
+                                                                (
+                                                                )
+
+                                                        )
+
+                                                    [1] => on_activate
+                                                )
+
+                                            [accepted_args] => 1
+                                        )
+
+                                    [LP_Install::install] => Array
+                                        (
+                                            [function] => Array
+                                                (
+                                                    [0] => LP_Install
+                                                    [1] => install
+                                                )
+
+                                            [accepted_args] => 1
+                                        )
+
+                                )
+
+                        )
+
+                    [iterations:WP_Hook:private] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => 10
+                                )
+
+                        )
+
+                    [current_priority:WP_Hook:private] => Array
+                        (
+                            [0] => 10
+                        )
+
+                    [nesting_level:WP_Hook:private] => 1
+                    [doing_action:WP_Hook:private] => 1
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => 
+                        )
+
+                )
+
+        )
+
+    [4] => Array
+        (
+            [file] => /homepages/31/d743963689/htdocs/clickandbuilds/htaginstitute/wp-admin/includes/plugin.php
+            [line] => 586
+            [function] => do_action
+            [args] => Array
+                (
+                    [0] => activate_learnpress/learnpress.php
+                    [1] => 
+                )
+
+        )
+
+    [5] => Array
+        (
+            [file] => /homepages/31/d743963689/htdocs/clickandbuilds/htaginstitute/wp-admin/plugins.php
+            [line] => 43
+            [function] => activate_plugin
+            [args] => Array
+                (
+                    [0] => learnpress/learnpress.php
+                    [1] => http://s743963694.onlinehome.fr/wp-admin/plugins.php?error=true&plugin=learnpress%2Flearnpress.php
+                    [2] => 
+                )
+
+        )
+
+)
+
+
+=> file      :/homepages/31/d743963689/htdocs/clickandbuilds/htaginstitute/wp-content/plugins/learnpress/inc/class-lp-install.php
+=> line      :702
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------06-27-2018 @ 12:06:18----------
+Array
+(
+    [0] => Array
+        (
+            [file] => /homepages/31/d743963689/htdocs/clickandbuilds/htaginstitute/wp-content/plugins/learnpress/inc/class-lp-install.php
+            [line] => 155
+            [function] => update_db_version
+            [class] => LP_Install
+            [type] => ::
+            [args] => Array
+                (
+                )
+
+        )
+
+    [1] => Array
+        (
+            [file] => /homepages/31/d743963689/htdocs/clickandbuilds/htaginstitute/wp-includes/class-wp-hook.php
+            [line] => 286
+            [function] => install
+            [class] => LP_Install
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => LearnPress Object
+                        (
+                            [version] => 3.0.9
+                            [session] => 
+                            [profile] => 
+                            [cart] => 
+                            [settings] => 
+                            [schedule] => 
+                            [query_vars] => Array
+                                (
+                                )
+
+                            [_table_prefixes:protected] => Array
+                                (
+                                    [tbl_sessions] => KzxHEIFclearnpress_sessions
+                                    [tbl_sections] => KzxHEIFclearnpress_sections
+                                    [tbl_section_items] => KzxHEIFclearnpress_section_items
+                                    [tbl_user_items] => KzxHEIFclearnpress_user_items
+                                    [tbl_user_itemmeta] => KzxHEIFclearnpress_user_itemmeta
+                                    [tbl_order_items] => KzxHEIFclearnpress_order_items
+                                    [tbl_order_itemmeta] => KzxHEIFclearnpress_order_itemmeta
+                                    [tbl_quiz_questions] => KzxHEIFclearnpress_quiz_questions
+                                    [tbl_question_answers] => KzxHEIFclearnpress_question_answers
+                                    [tbl_question_answermeta] => KzxHEIFclearnpress_question_answermeta
+                                    [tbl_review_logs] => KzxHEIFclearnpress_review_logs
+                                )
+
+                            [query] => LP_Query Object
+                                (
+                                    [query_vars] => Array
+                                        (
+                                        )
+
+                                )
+
+                            [global] => Array
+                                (
+                                )
+
+                            [backgrounds] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [2] => Array
+        (
+            [file] => /homepages/31/d743963689/htdocs/clickandbuilds/htaginstitute/wp-includes/class-wp-hook.php
+            [line] => 310
+            [function] => apply_filters
+            [class] => WP_Hook
+            [object] => WP_Hook Object
+                (
+                    [callbacks] => Array
+                        (
+                            [10] => Array
+                                (
+                                    [LP_Install::install] => Array
+                                        (
+                                            [function] => Array
+                                                (
+                                                    [0] => LP_Install
+                                                    [1] => install
+                                                )
+
+                                            [accepted_args] => 1
+                                        )
+
+                                )
+
+                        )
+
+                    [iterations:WP_Hook:private] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => 10
+                                )
+
+                        )
+
+                    [current_priority:WP_Hook:private] => Array
+                        (
+                            [0] => 10
+                        )
+
+                    [nesting_level:WP_Hook:private] => 1
+                    [doing_action:WP_Hook:private] => 1
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                    [0] => 
+                    [1] => Array
+                        (
+                            [0] => LearnPress Object
+                                (
+                                    [version] => 3.0.9
+                                    [session] => 
+                                    [profile] => 
+                                    [cart] => 
+                                    [settings] => 
+                                    [schedule] => 
+                                    [query_vars] => Array
+                                        (
+                                        )
+
+                                    [_table_prefixes:protected] => Array
+                                        (
+                                            [tbl_sessions] => KzxHEIFclearnpress_sessions
+                                            [tbl_sections] => KzxHEIFclearnpress_sections
+                                            [tbl_section_items] => KzxHEIFclearnpress_section_items
+                                            [tbl_user_items] => KzxHEIFclearnpress_user_items
+                                            [tbl_user_itemmeta] => KzxHEIFclearnpress_user_itemmeta
+                                            [tbl_order_items] => KzxHEIFclearnpress_order_items
+                                            [tbl_order_itemmeta] => KzxHEIFclearnpress_order_itemmeta
+                                            [tbl_quiz_questions] => KzxHEIFclearnpress_quiz_questions
+                                            [tbl_question_answers] => KzxHEIFclearnpress_question_answers
+                                            [tbl_question_answermeta] => KzxHEIFclearnpress_question_answermeta
+                                            [tbl_review_logs] => KzxHEIFclearnpress_review_logs
+                                        )
+
+                                    [query] => LP_Query Object
+                                        (
+                                            [query_vars] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                    [global] => Array
+                                        (
+                                        )
+
+                                    [backgrounds] => Array
+                                        (
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [3] => Array
+        (
+            [file] => /homepages/31/d743963689/htdocs/clickandbuilds/htaginstitute/wp-includes/plugin.php
+            [line] => 453
+            [function] => do_action
+            [class] => WP_Hook
+            [object] => WP_Hook Object
+                (
+                    [callbacks] => Array
+                        (
+                            [10] => Array
+                                (
+                                    [LP_Install::install] => Array
+                                        (
+                                            [function] => Array
+                                                (
+                                                    [0] => LP_Install
+                                                    [1] => install
+                                                )
+
+                                            [accepted_args] => 1
+                                        )
+
+                                )
+
+                        )
+
+                    [iterations:WP_Hook:private] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => 10
+                                )
+
+                        )
+
+                    [current_priority:WP_Hook:private] => Array
+                        (
+                            [0] => 10
+                        )
+
+                    [nesting_level:WP_Hook:private] => 1
+                    [doing_action:WP_Hook:private] => 1
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => LearnPress Object
+                                (
+                                    [version] => 3.0.9
+                                    [session] => 
+                                    [profile] => 
+                                    [cart] => 
+                                    [settings] => 
+                                    [schedule] => 
+                                    [query_vars] => Array
+                                        (
+                                        )
+
+                                    [_table_prefixes:protected] => Array
+                                        (
+                                            [tbl_sessions] => KzxHEIFclearnpress_sessions
+                                            [tbl_sections] => KzxHEIFclearnpress_sections
+                                            [tbl_section_items] => KzxHEIFclearnpress_section_items
+                                            [tbl_user_items] => KzxHEIFclearnpress_user_items
+                                            [tbl_user_itemmeta] => KzxHEIFclearnpress_user_itemmeta
+                                            [tbl_order_items] => KzxHEIFclearnpress_order_items
+                                            [tbl_order_itemmeta] => KzxHEIFclearnpress_order_itemmeta
+                                            [tbl_quiz_questions] => KzxHEIFclearnpress_quiz_questions
+                                            [tbl_question_answers] => KzxHEIFclearnpress_question_answers
+                                            [tbl_question_answermeta] => KzxHEIFclearnpress_question_answermeta
+                                            [tbl_review_logs] => KzxHEIFclearnpress_review_logs
+                                        )
+
+                                    [query] => LP_Query Object
+                                        (
+                                            [query_vars] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                    [global] => Array
+                                        (
+                                        )
+
+                                    [backgrounds] => Array
+                                        (
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [4] => Array
+        (
+            [file] => /homepages/31/d743963689/htdocs/clickandbuilds/htaginstitute/wp-content/plugins/learnpress/learnpress.php
+            [line] => 416
+            [function] => do_action
+            [args] => Array
+                (
+                    [0] => learn-press/activate
+                    [1] => LearnPress Object
+                        (
+                            [version] => 3.0.9
+                            [session] => 
+                            [profile] => 
+                            [cart] => 
+                            [settings] => 
+                            [schedule] => 
+                            [query_vars] => Array
+                                (
+                                )
+
+                            [_table_prefixes:protected] => Array
+                                (
+                                    [tbl_sessions] => KzxHEIFclearnpress_sessions
+                                    [tbl_sections] => KzxHEIFclearnpress_sections
+                                    [tbl_section_items] => KzxHEIFclearnpress_section_items
+                                    [tbl_user_items] => KzxHEIFclearnpress_user_items
+                                    [tbl_user_itemmeta] => KzxHEIFclearnpress_user_itemmeta
+                                    [tbl_order_items] => KzxHEIFclearnpress_order_items
+                                    [tbl_order_itemmeta] => KzxHEIFclearnpress_order_itemmeta
+                                    [tbl_quiz_questions] => KzxHEIFclearnpress_quiz_questions
+                                    [tbl_question_answers] => KzxHEIFclearnpress_question_answers
+                                    [tbl_question_answermeta] => KzxHEIFclearnpress_question_answermeta
+                                    [tbl_review_logs] => KzxHEIFclearnpress_review_logs
+                                )
+
+                            [query] => LP_Query Object
+                                (
+                                    [query_vars] => Array
+                                        (
+                                        )
+
+                                )
+
+                            [global] => Array
+                                (
+                                )
+
+                            [backgrounds] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [5] => Array
+        (
+            [file] => /homepages/31/d743963689/htdocs/clickandbuilds/htaginstitute/wp-includes/class-wp-hook.php
+            [line] => 286
+            [function] => on_activate
+            [class] => LearnPress
+            [object] => LearnPress Object
+                (
+                    [version] => 3.0.9
+                    [session] => 
+                    [profile] => 
+                    [cart] => 
+                    [settings] => 
+                    [schedule] => 
+                    [query_vars] => Array
+                        (
+                        )
+
+                    [_table_prefixes:protected] => Array
+                        (
+                            [tbl_sessions] => KzxHEIFclearnpress_sessions
+                            [tbl_sections] => KzxHEIFclearnpress_sections
+                            [tbl_section_items] => KzxHEIFclearnpress_section_items
+                            [tbl_user_items] => KzxHEIFclearnpress_user_items
+                            [tbl_user_itemmeta] => KzxHEIFclearnpress_user_itemmeta
+                            [tbl_order_items] => KzxHEIFclearnpress_order_items
+                            [tbl_order_itemmeta] => KzxHEIFclearnpress_order_itemmeta
+                            [tbl_quiz_questions] => KzxHEIFclearnpress_quiz_questions
+                            [tbl_question_answers] => KzxHEIFclearnpress_question_answers
+                            [tbl_question_answermeta] => KzxHEIFclearnpress_question_answermeta
+                            [tbl_review_logs] => KzxHEIFclearnpress_review_logs
+                        )
+
+                    [query] => LP_Query Object
+                        (
+                            [query_vars] => Array
+                                (
+                                )
+
+                        )
+
+                    [global] => Array
+                        (
+                        )
+
+                    [backgrounds] => Array
+                        (
+                        )
+
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                    [0] => 
+                )
+
+        )
+
+    [6] => Array
+        (
+            [file] => /homepages/31/d743963689/htdocs/clickandbuilds/htaginstitute/wp-includes/class-wp-hook.php
+            [line] => 310
+            [function] => apply_filters
+            [class] => WP_Hook
+            [object] => WP_Hook Object
+                (
+                    [callbacks] => Array
+                        (
+                            [10] => Array
+                                (
+                                    [000000007cbf6bb5000000001eefa0f5on_activate] => Array
+                                        (
+                                            [function] => Array
+                                                (
+                                                    [0] => LearnPress Object
+                                                        (
+                                                            [version] => 3.0.9
+                                                            [session] => 
+                                                            [profile] => 
+                                                            [cart] => 
+                                                            [settings] => 
+                                                            [schedule] => 
+                                                            [query_vars] => Array
+                                                                (
+                                                                )
+
+                                                            [_table_prefixes:protected] => Array
+                                                                (
+                                                                    [tbl_sessions] => KzxHEIFclearnpress_sessions
+                                                                    [tbl_sections] => KzxHEIFclearnpress_sections
+                                                                    [tbl_section_items] => KzxHEIFclearnpress_section_items
+                                                                    [tbl_user_items] => KzxHEIFclearnpress_user_items
+                                                                    [tbl_user_itemmeta] => KzxHEIFclearnpress_user_itemmeta
+                                                                    [tbl_order_items] => KzxHEIFclearnpress_order_items
+                                                                    [tbl_order_itemmeta] => KzxHEIFclearnpress_order_itemmeta
+                                                                    [tbl_quiz_questions] => KzxHEIFclearnpress_quiz_questions
+                                                                    [tbl_question_answers] => KzxHEIFclearnpress_question_answers
+                                                                    [tbl_question_answermeta] => KzxHEIFclearnpress_question_answermeta
+                                                                    [tbl_review_logs] => KzxHEIFclearnpress_review_logs
+                                                                )
+
+                                                            [query] => LP_Query Object
+                                                                (
+                                                                    [query_vars] => Array
+                                                                        (
+                                                                        )
+
+                                                                )
+
+                                                            [global] => Array
+                                                                (
+                                                                )
+
+                                                            [backgrounds] => Array
+                                                                (
+                                                                )
+
+                                                        )
+
+                                                    [1] => on_activate
+                                                )
+
+                                            [accepted_args] => 1
+                                        )
+
+                                    [LP_Install::install] => Array
+                                        (
+                                            [function] => Array
+                                                (
+                                                    [0] => LP_Install
+                                                    [1] => install
+                                                )
+
+                                            [accepted_args] => 1
+                                        )
+
+                                )
+
+                        )
+
+                    [iterations:WP_Hook:private] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => 10
+                                )
+
+                        )
+
+                    [current_priority:WP_Hook:private] => Array
+                        (
+                            [0] => 10
+                        )
+
+                    [nesting_level:WP_Hook:private] => 1
+                    [doing_action:WP_Hook:private] => 1
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                    [0] => 
+                    [1] => Array
+                        (
+                            [0] => 
+                        )
+
+                )
+
+        )
+
+    [7] => Array
+        (
+            [file] => /homepages/31/d743963689/htdocs/clickandbuilds/htaginstitute/wp-includes/plugin.php
+            [line] => 453
+            [function] => do_action
+            [class] => WP_Hook
+            [object] => WP_Hook Object
+                (
+                    [callbacks] => Array
+                        (
+                            [10] => Array
+                                (
+                                    [000000007cbf6bb5000000001eefa0f5on_activate] => Array
+                                        (
+                                            [function] => Array
+                                                (
+                                                    [0] => LearnPress Object
+                                                        (
+                                                            [version] => 3.0.9
+                                                            [session] => 
+                                                            [profile] => 
+                                                            [cart] => 
+                                                            [settings] => 
+                                                            [schedule] => 
+                                                            [query_vars] => Array
+                                                                (
+                                                                )
+
+                                                            [_table_prefixes:protected] => Array
+                                                                (
+                                                                    [tbl_sessions] => KzxHEIFclearnpress_sessions
+                                                                    [tbl_sections] => KzxHEIFclearnpress_sections
+                                                                    [tbl_section_items] => KzxHEIFclearnpress_section_items
+                                                                    [tbl_user_items] => KzxHEIFclearnpress_user_items
+                                                                    [tbl_user_itemmeta] => KzxHEIFclearnpress_user_itemmeta
+                                                                    [tbl_order_items] => KzxHEIFclearnpress_order_items
+                                                                    [tbl_order_itemmeta] => KzxHEIFclearnpress_order_itemmeta
+                                                                    [tbl_quiz_questions] => KzxHEIFclearnpress_quiz_questions
+                                                                    [tbl_question_answers] => KzxHEIFclearnpress_question_answers
+                                                                    [tbl_question_answermeta] => KzxHEIFclearnpress_question_answermeta
+                                                                    [tbl_review_logs] => KzxHEIFclearnpress_review_logs
+                                                                )
+
+                                                            [query] => LP_Query Object
+                                                                (
+                                                                    [query_vars] => Array
+                                                                        (
+                                                                        )
+
+                                                                )
+
+                                                            [global] => Array
+                                                                (
+                                                                )
+
+                                                            [backgrounds] => Array
+                                                                (
+                                                                )
+
+                                                        )
+
+                                                    [1] => on_activate
+                                                )
+
+                                            [accepted_args] => 1
+                                        )
+
+                                    [LP_Install::install] => Array
+                                        (
+                                            [function] => Array
+                                                (
+                                                    [0] => LP_Install
+                                                    [1] => install
+                                                )
+
+                                            [accepted_args] => 1
+                                        )
+
+                                )
+
+                        )
+
+                    [iterations:WP_Hook:private] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => 10
+                                )
+
+                        )
+
+                    [current_priority:WP_Hook:private] => Array
+                        (
+                            [0] => 10
+                        )
+
+                    [nesting_level:WP_Hook:private] => 1
+                    [doing_action:WP_Hook:private] => 1
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => 
+                        )
+
+                )
+
+        )
+
+    [8] => Array
+        (
+            [file] => /homepages/31/d743963689/htdocs/clickandbuilds/htaginstitute/wp-admin/includes/plugin.php
+            [line] => 586
+            [function] => do_action
+            [args] => Array
+                (
+                    [0] => activate_learnpress/learnpress.php
+                    [1] => 
+                )
+
+        )
+
+    [9] => Array
+        (
+            [file] => /homepages/31/d743963689/htdocs/clickandbuilds/htaginstitute/wp-admin/plugins.php
+            [line] => 43
+            [function] => activate_plugin
+            [args] => Array
+                (
+                    [0] => learnpress/learnpress.php
+                    [1] => http://s743963694.onlinehome.fr/wp-admin/plugins.php?error=true&plugin=learnpress%2Flearnpress.php
+                    [2] => 
+                )
+
+        )
+
+)
+
+
+=> file      :/homepages/31/d743963689/htdocs/clickandbuilds/htaginstitute/wp-content/plugins/learnpress/inc/class-lp-install.php
+=> line      :702
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+

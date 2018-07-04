@@ -1,0 +1,227 @@
+
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: Linux
+Software 		: Apache
+MySQL version 		: 5.5.60
+PHP Version 		: 7.0.30
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 67108864
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 30
+Max Upload Size 	: 64 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: 0
+
+-----
+
+Importing Started! - 13:56:13 UTC
+---
+
+WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+https://wpastra.com/docs/?p=1314&utm_source=demo-import-panel&utm_campaign=import-error&utm_medium=wp-dashboard
+
+---
+
+
+1. Imported "Customizer Settings"  - 13:56:13 UTC
+
+---
+
+2. Importing "XML"  - 13:56:13 UTC
+Imported "Menu" (nav_menu)
+Term 6 remapped to 16
+Failed to import astra-site-page-builder Beaver Builder
+Taxonomie non valide.
+Failed to import astra-site-page-builder Elementor
+Taxonomie non valide.
+Failed to import astra-sites-type Free
+Taxonomie non valide.
+Imported "page" (elementor_library_type)
+Term 57 remapped to 17
+Failed to import astra-sites-type Premium
+Taxonomie non valide.
+Imported "section" (elementor_library_type)
+Term 58 remapped to 18
+Imported "Hello world!" (Article)
+Post 1 remapped to 8
+Imported "Home" (Page)
+Post 4 remapped to 9
+Imported "astra" (CSS personnalisé)
+Post 12 remapped to 12
+Imported "About" (Page)
+Post 15 remapped to 15
+Imported "Services" (Page)
+Post 16 remapped to 16
+Imported "Contact" (Page)
+Post 17 remapped to 17
+Imported "Shop" (Page)
+Post 84 remapped to 84
+Imported "Cart" (Page)
+Post 85 remapped to 85
+Imported "Checkout" (Page)
+Post 86 remapped to 86
+Imported "My account" (Page)
+Post 87 remapped to 87
+Imported "price" (Modèle)
+Post 498 remapped to 498
+Imported "Home" (Élément de menu de navigation)
+Post 520 remapped to 520
+Processing menu item custom
+Menu item 520 mapped to 520
+Imported "Features" (Élément de menu de navigation)
+Post 521 remapped to 521
+Processing menu item custom
+Menu item 521 mapped to 521
+Imported "Highlights" (Élément de menu de navigation)
+Post 522 remapped to 522
+Processing menu item custom
+Menu item 522 mapped to 522
+Imported "Other Features" (Élément de menu de navigation)
+Post 523 remapped to 523
+Processing menu item custom
+Menu item 523 mapped to 523
+Imported "astra-favicon2-free-img" (Fichier média)
+Post 551 remapped to 551
+Imported "graphic-free-img" (Fichier média)
+Post 555 remapped to 555
+Imported "freesite-facebook-yoast-free-img" (Fichier média)
+Post 569 remapped to 569
+Imported "pic03-free-img" (Fichier média)
+Post 571 remapped to 571
+Imported "astra_logo-free-img" (Fichier média)
+Post 572 remapped to 572
+Imported "cart-1" (Fichier média)
+Post 574 remapped to 574
+Imported "light-1" (Fichier média)
+Post 575 remapped to 575
+Imported "search" (Fichier média)
+Post 576 remapped to 576
+Imported "img" (Fichier média)
+Post 577 remapped to 577
+Imported "pic1.1-free-img" (Fichier média)
+Post 579 remapped to 579
+Imported "pic2.2-free-img" (Fichier média)
+Post 580 remapped to 580
+Running post-processing for post 8
+Could not find the author for "Hello world!" (post #8)
+Post 8 was imported with author "satishk", but could not be found
+Post 8 was marked for post-processing, but none was required.
+Running post-processing for post 9
+Could not find the author for "Home" (post #9)
+Post 9 was imported with author "satishk", but could not be found
+Running post-processing for post 12
+Could not find the author for "astra" (post #12)
+Post 12 was imported with author "satishk", but could not be found
+Post 12 was marked for post-processing, but none was required.
+Running post-processing for post 15
+Could not find the author for "About" (post #15)
+Post 15 was imported with author "satishk", but could not be found
+Post 15 was marked for post-processing, but none was required.
+Running post-processing for post 16
+Could not find the author for "Services" (post #16)
+Post 16 was imported with author "satishk", but could not be found
+Post 16 was marked for post-processing, but none was required.
+Running post-processing for post 17
+Could not find the author for "Contact" (post #17)
+Post 17 was imported with author "satishk", but could not be found
+Post 17 was marked for post-processing, but none was required.
+Running post-processing for post 84
+Could not find the author for "Shop" (post #84)
+Post 84 was imported with author "brainstormforce", but could not be found
+Post 84 was marked for post-processing, but none was required.
+Running post-processing for post 85
+Could not find the author for "Cart" (post #85)
+Post 85 was imported with author "brainstormforce", but could not be found
+Post 85 was marked for post-processing, but none was required.
+Running post-processing for post 86
+Could not find the author for "Checkout" (post #86)
+Post 86 was imported with author "brainstormforce", but could not be found
+Post 86 was marked for post-processing, but none was required.
+Running post-processing for post 87
+Could not find the author for "My account" (post #87)
+Post 87 was imported with author "brainstormforce", but could not be found
+Post 87 was marked for post-processing, but none was required.
+Running post-processing for post 498
+Could not find the author for "price" (post #498)
+Post 498 was imported with author "satishk", but could not be found
+Post 498 was marked for post-processing, but none was required.
+Running post-processing for post 520
+Could not find the author for "Home" (post #520)
+Post 520 was imported with author "sujay", but could not be found
+Post 520 was marked for post-processing, but none was required.
+Running post-processing for post 521
+Could not find the author for "Features" (post #521)
+Post 521 was imported with author "sujay", but could not be found
+Post 521 was marked for post-processing, but none was required.
+Running post-processing for post 522
+Could not find the author for "Highlights" (post #522)
+Post 522 was imported with author "sujay", but could not be found
+Post 522 was marked for post-processing, but none was required.
+Running post-processing for post 523
+Could not find the author for "Other Features" (post #523)
+Post 523 was imported with author "sujay", but could not be found
+Post 523 was marked for post-processing, but none was required.
+Running post-processing for post 551
+Could not find the author for "astra-favicon2-free-img" (post #551)
+Post 551 was imported with author "ramak", but could not be found
+Post 551 was marked for post-processing, but none was required.
+Running post-processing for post 555
+Could not find the author for "graphic-free-img" (post #555)
+Post 555 was imported with author "ramak", but could not be found
+Post 555 was marked for post-processing, but none was required.
+Running post-processing for post 569
+Could not find the author for "freesite-facebook-yoast-free-img" (post #569)
+Post 569 was imported with author "ramak", but could not be found
+Post 569 was marked for post-processing, but none was required.
+Running post-processing for post 571
+Could not find the author for "pic03-free-img" (post #571)
+Post 571 was imported with author "ramak", but could not be found
+Post 571 was marked for post-processing, but none was required.
+Running post-processing for post 572
+Could not find the author for "astra_logo-free-img" (post #572)
+Post 572 was imported with author "ramak", but could not be found
+Post 572 was marked for post-processing, but none was required.
+Running post-processing for post 574
+Could not find the author for "cart-1" (post #574)
+Post 574 was imported with author "satishk", but could not be found
+Post 574 was marked for post-processing, but none was required.
+Running post-processing for post 575
+Could not find the author for "light-1" (post #575)
+Post 575 was imported with author "satishk", but could not be found
+Post 575 was marked for post-processing, but none was required.
+Running post-processing for post 576
+Could not find the author for "search" (post #576)
+Post 576 was imported with author "satishk", but could not be found
+Post 576 was marked for post-processing, but none was required.
+Running post-processing for post 577
+Could not find the author for "img" (post #577)
+Post 577 was imported with author "satishk", but could not be found
+Post 577 was marked for post-processing, but none was required.
+Running post-processing for post 579
+Could not find the author for "pic1.1-free-img" (post #579)
+Post 579 was imported with author "ramak", but could not be found
+Post 579 was marked for post-processing, but none was required.
+Running post-processing for post 580
+Could not find the author for "pic2.2-free-img" (post #580)
+Post 580 was imported with author "ramak", but could not be found
+Post 580 was marked for post-processing, but none was required.
+
+---
+
+3. Imported "Site Options"  - 13:56:27 UTC
+
+---
+
+4. Importing "Widgets"  - 13:56:28 UTC
+Sidebar: sidebar-1
+Widget: "Rechercher" - Widget already exists
+Widget: "Articles récents" - Widget already exists
+Widget: "Commentaires récents" - Widget already exists
+Widget: "Archives" - Widget already exists
+Widget: "Catégories" - Widget already exists
+Widget: "Méta" - Widget already exists
+
+---
+
+Import Complete!  - 13:56:30 UTC

@@ -1,0 +1,84 @@
+
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: Linux
+Software 		: Apache
+MySQL version 		: 5.5.60
+PHP Version 		: 5.5.38
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 67108864
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 30
+Max Upload Size 	: 64 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: 0
+
+-----
+
+Importing Started! - 07:30:53 UTC
+---
+
+WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+https://wpastra.com/docs/?p=1314&utm_source=demo-import-panel&utm_campaign=import-error&utm_medium=wp-dashboard
+
+---
+
+
+1. Imported "Customizer Settings"  - 07:30:55 UTC
+
+---
+
+2. Importing "XML"  - 07:30:56 UTC
+Failed to import astra-site-page-builder Beaver Builder
+Taxonomie non valide.
+Failed to import astra-site-page-builder Elementor
+Taxonomie non valide.
+Failed to import astra-sites-type Free
+Taxonomie non valide.
+Failed to import astra-sites-type Premium
+Taxonomie non valide.
+Article "Hello world!" already exists.
+Page "Home" already exists.
+CSS personnalisé "astra" already exists.
+Page "About" already exists.
+Page "Services" already exists.
+Page "Contact" already exists.
+Page "Shop" already exists.
+Page "Cart" already exists.
+Page "Checkout" already exists.
+Page "My account" already exists.
+Modèle "price" already exists.
+Élément de menu de navigation "Home" already exists.
+Élément de menu de navigation "Features" already exists.
+Élément de menu de navigation "Highlights" already exists.
+Élément de menu de navigation "Other Features" already exists.
+Fichier média "astra-favicon2-free-img" already exists.
+Fichier média "graphic-free-img" already exists.
+Fichier média "freesite-facebook-yoast-free-img" already exists.
+Fichier média "pic03-free-img" already exists.
+Fichier média "astra_logo-free-img" already exists.
+Fichier média "cart-1" already exists.
+Fichier média "light-1" already exists.
+Fichier média "search" already exists.
+Fichier média "img" already exists.
+Fichier média "pic1.1-free-img" already exists.
+Fichier média "pic2.2-free-img" already exists.
+
+---
+
+3. Imported "Site Options"  - 07:30:59 UTC
+
+---
+
+4. Importing "Widgets"  - 07:31:02 UTC
+Sidebar: sidebar-1
+Widget: "Rechercher" - Widget already exists
+Widget: "Articles récents" - Widget already exists
+Widget: "Commentaires récents" - Widget already exists
+Widget: "Archives" - Widget already exists
+Widget: "Catégories" - Widget already exists
+Widget: "Méta" - Widget already exists
+
+---
+
+Import Complete!  - 07:31:04 UTC

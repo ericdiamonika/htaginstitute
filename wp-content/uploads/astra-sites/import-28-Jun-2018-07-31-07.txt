@@ -1,0 +1,178 @@
+
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: Linux
+Software 		: Apache
+MySQL version 		: 5.5.60
+PHP Version 		: 5.5.38
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 67108864
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 30
+Max Upload Size 	: 64 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: 0
+
+-----
+
+Importing Started! - 07:38:25 UTC
+---
+
+WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+https://wpastra.com/docs/?p=1314&utm_source=demo-import-panel&utm_campaign=import-error&utm_medium=wp-dashboard
+
+---
+
+
+1. Imported "Customizer Settings"  - 07:38:26 UTC
+
+---
+
+2. Importing "XML"  - 07:38:28 UTC
+Failed to import astra-site-page-builder Beaver Builder
+Taxonomie non valide.
+Failed to import astra-site-page-builder Elementor
+Taxonomie non valide.
+Failed to import astra-sites-type Free
+Taxonomie non valide.
+Failed to import astra-sites-type Premium
+Taxonomie non valide.
+Page "HOME" already exists.
+Page "WHO WE ARE" already exists.
+Page "WHAT WE DO" already exists.
+Page "OUR PARTNERS" already exists.
+Page "CONTACT US" already exists.
+Imported "" (Élément de menu de navigation)
+Post 9 remapped to 967
+Processing menu item post_type
+Imported "" (Élément de menu de navigation)
+Post 10 remapped to 10
+Processing menu item post_type
+Imported "" (Élément de menu de navigation)
+Post 11 remapped to 11
+Processing menu item post_type
+Imported "" (Élément de menu de navigation)
+Post 12 remapped to 968
+Processing menu item post_type
+Imported "" (Élément de menu de navigation)
+Post 13 remapped to 13
+Processing menu item post_type
+Fichier média "about-img-01" already exists.
+Fichier média "BG-Img-01" already exists.
+Fichier média "BG-Img-02-free-img" already exists.
+Fichier média "BG-Img-03-free-img" already exists.
+Fichier média "BG-Img-04-free-img" already exists.
+Fichier média "gallery-img-01" already exists.
+Fichier média "gallery-img-02-free-img" already exists.
+Fichier média "gallery-img-03" already exists.
+Fichier média "gallery-img-04-free-img" already exists.
+Fichier média "gallery-img-05-free-img" already exists.
+Fichier média "partners-logo-01" already exists.
+Fichier média "partners-logo-02" already exists.
+Fichier média "partners-logo-03" already exists.
+Fichier média "partners-logo-04" already exists.
+Fichier média "partners-logo-05" already exists.
+Fichier média "favicon-free-img" already exists.
+Fichier média "about-img-02" already exists.
+Fichier média "BG-Img-05" already exists.
+Fichier média "stories-img-01-free-img" already exists.
+Fichier média "stories-img-02-free-img" already exists.
+Fichier média "stories-img-03-free-img" already exists.
+Fichier média "stories-img-04-free-img" already exists.
+Fichier média "stories-img-05-free-img-06" already exists.
+Fichier média "stories-img-05-free-img" already exists.
+Fichier média "partners-logo-01-dark" already exists.
+Fichier média "partners-logo-02-dark" already exists.
+Fichier média "partners-logo-03-dark" already exists.
+Fichier média "partners-logo-04-dark" already exists.
+Fichier média "partners-logo-05-dark" already exists.
+Imported "Contact Form" (Formulaire de contact)
+Post 78 remapped to 969
+Fichier média "BG-Img-06-free-img" already exists.
+Fichier média "BG-Img-07" already exists.
+Fichier média "BG-Img-08-free-img" already exists.
+Imported "Make a gift today" (Formulaire)
+Post 101 remapped to 970
+Page "DONATE" already exists.
+Fichier média "logo-regular-free-img" already exists.
+Fichier média "logo-retina-free-img" already exists.
+Fichier média "partners-logo-07" already exists.
+Fichier média "partners-logo-06" already exists.
+Fichier média "BG-Img-09-free-img" already exists.
+Fichier média "gallery-img-06-free-img" already exists.
+Fichier média "gallery-img-07-free-img" already exists.
+Fichier média "gallery-img-08-free-img" already exists.
+Fichier média "demo-screenshot" already exists.
+Fichier média "cropped-favicon-free-img.png" already exists.
+Imported "" (Élément de menu de navigation)
+Post 133 remapped to 133
+Processing menu item post_type
+Imported "Harshad Dhale" (Don)
+Post 153 remapped to 971
+Running post-processing for post 967
+Could not find the author for "" (post #967)
+Post 967 was imported with author "alex", but could not be found
+Could not find the menu object for "" (post #967)
+Post 967 was imported with object "8" of type "post_type", but could not be found
+Post 967 was marked for post-processing, but none was required.
+Running post-processing for post 10
+Could not find the author for "" (post #10)
+Post 10 was imported with author "alex", but could not be found
+Could not find the menu object for "" (post #10)
+Post 10 was imported with object "7" of type "post_type", but could not be found
+Post 10 was marked for post-processing, but none was required.
+Running post-processing for post 11
+Could not find the author for "" (post #11)
+Post 11 was imported with author "alex", but could not be found
+Could not find the menu object for "" (post #11)
+Post 11 was imported with object "6" of type "post_type", but could not be found
+Post 11 was marked for post-processing, but none was required.
+Running post-processing for post 968
+Could not find the author for "" (post #968)
+Post 968 was imported with author "alex", but could not be found
+Could not find the menu object for "" (post #968)
+Post 968 was imported with object "5" of type "post_type", but could not be found
+Post 968 was marked for post-processing, but none was required.
+Running post-processing for post 13
+Could not find the author for "" (post #13)
+Post 13 was imported with author "alex", but could not be found
+Could not find the menu object for "" (post #13)
+Post 13 was imported with object "4" of type "post_type", but could not be found
+Post 13 was marked for post-processing, but none was required.
+Running post-processing for post 969
+Could not find the author for "Contact Form" (post #969)
+Post 969 was imported with author "alex", but could not be found
+Post 969 was marked for post-processing, but none was required.
+Running post-processing for post 970
+Could not find the author for "Make a gift today" (post #970)
+Post 970 was imported with author "alex", but could not be found
+Post 970 was marked for post-processing, but none was required.
+Running post-processing for post 133
+Could not find the author for "" (post #133)
+Post 133 was imported with author "sujay", but could not be found
+Could not find the menu object for "" (post #133)
+Post 133 was imported with object "103" of type "post_type", but could not be found
+Post 133 was marked for post-processing, but none was required.
+Running post-processing for post 971
+Could not find the author for "Harshad Dhale" (post #971)
+Post 971 was imported with author "harshadd", but could not be found
+Post 971 was marked for post-processing, but none was required.
+
+---
+
+3. Imported "Site Options"  - 07:38:32 UTC
+
+---
+
+4. Importing "Widgets"  - 07:38:35 UTC
+Sidebar: sidebar-1
+Widget: "Rechercher" - Widget already exists
+Widget: "Articles récents" - Widget already exists
+Widget: "Commentaires récents" - Widget already exists
+Widget: "Archives" - Widget already exists
+Widget: "Catégories" - Widget already exists
+Widget: "Méta" - Widget already exists
+
+---
+
+Import Complete!  - 07:38:37 UTC
